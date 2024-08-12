@@ -1,4 +1,4 @@
-# VrindStoreExcelReport
+# Vrinda Store Excel Report
 Sample Insights For Stakeholder
 Women are ore likely to buy compared to men (~65%)
 Maharashtra, karnataka and Uttar Pradesh are the top 3
